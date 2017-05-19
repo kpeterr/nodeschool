@@ -1,3 +1,4 @@
+// Object Properties
 var food = {
     types: 'only pizza'
 };
